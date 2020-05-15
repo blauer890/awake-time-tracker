@@ -1,14 +1,10 @@
 /*
-Author: Brian Lauer
+Author: blauer890
 Date: April 24, 2020
 
 Program for keeping track of the number of
 times I awake before a given time. The default is
-9:00 am. Right now 9:00 am is hardcoded in as that
-is my current goal. However, down the road a feature 
-could be implemented to set the time
-either with a command line argument or standard
-input.
+9:00 am. 
 */
 
 #include <iostream>
